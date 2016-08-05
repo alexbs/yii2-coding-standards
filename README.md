@@ -66,7 +66,7 @@ Yii2 code style can be specified at Inspections → PHP → PHP Code Sniffer val
 PhpStorm
 --------
 
-Yii uses PSR-1 and PSR-2 as code style standards. You can choose these via `Settings` → `Code Style` → `PHP` → `Set from...` → `Predefined Style` → `PSR1/PSR2`.
+Yii uses PSR-1 and PSR-2 as code style standards. You can choose these via `Settings` → `Editor` → `Code Style` → `PHP` → `Set from...` → `Predefined Style` → `PSR1/PSR2`.
 
 ADDITIONAL NOTES
 ----------------
